@@ -27,33 +27,33 @@ For example, the dashboard shows fluctuations in monthly transaction amounts and
 ### Snapshot of Dashboard (Power BI Service)
 ![snap](https://github.com/justusabishek/Power-BI-Project-Using-AI/issues/1#issue-5366433983)
 
-### Insights: 
+## Insights: 
 
 A single-page report was created on Power BI Desktop and published to Power BI Service. Key inferences include:
 
-[1] Customer Demographics:
+### [1] Customer Demographics:
 
 Customer count is segmented by gender, with representation across male, female, and blank categories.
 
-[2] Account Activity:
+### [2] Account Activity:
 
 Inactive accounts are tracked monthly, showing peaks in certain months (e.g., May, July, November 2025).
 
 This helps identify periods of reduced engagement.
 
-[3] Transaction Trends:
+### [3] Transaction Trends:
 
 Monthly transaction amounts vary significantly, with peaks in April (4.0M) and December (4.0M), and lows in May (0.8M).
 
 Such fluctuations indicate seasonal or campaign-driven customer activity.
 
-[4] Account Balances:
+### [4] Account Balances:
 
 Savings accounts show stable balances, while current accounts reflect a large negative balance (-15.8M).
 
 This highlights potential overdraft or operational issues requiring immediate attention.
 
-[5] Transaction Types:
+### [5] Transaction Types:
 
 Credit and debit transactions are balanced, with approximately 5K transactions each.
 
